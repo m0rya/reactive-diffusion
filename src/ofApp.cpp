@@ -31,6 +31,16 @@ void ofApp::setup(){
     
     cout << converted << endl;
     
+    ofColor col = NULL;
+    
+    if(col == NULL){
+        cout << "hoge\n" ;
+    }
+    
+    
+    
+    
+    
     
     
    
